@@ -9,15 +9,6 @@
 
 **소속 :** 멀티캠퍼스  데이터 시각화 & 분석반(Python)
 
-**활용 데이터 :** 
-
-| 정보 | 형태 | 크기 | 수집 방안 | 출처 |
-| --- | --- | --- | --- | --- |
-| 2021일자/요일/권역구분/시간대별 평균 차량통행속도.xlsx (1월~12월) | 정형(csv) | 66,392,784개 (1,844,244,36)  | 서울 열린데이터 광장 | https://data.seoul.go.kr/dataList/OA-21305/S/1/datasetView.do |
-| 2021 구급출동현황.csv | 정형(csv) | 46,885,745개(551,597, 85) | 서울 열린데이터 광장 | http://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do |
-| 2021 서울시 교통량 조사자료.csv      (1월~12월) | 정형(csv) | 904,068개 (100,452,9)  | 서울 열린데이터 광장 | https://data.seoul.go.kr/dataList/OA-21305/S/1/datasetView.do |
-| 구급출동 현황.sample.xlsx | 정형(csv) | 1,615개 (19,85) | 서울 열린데이터 광장 | https://data.seoul.go.kr/dataList/OA-21305/S/1/datasetView.do |
-
 **(1) 코드(GitHub)**
 
 [서울시 구급 신고 다발 지역 분석 프로젝트](https://github.com/YoungMinDA/Team_project/tree/main/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EA%B5%AC%EA%B8%89%20%EC%8B%A0%EA%B3%A0%20%EB%8B%A4%EB%B0%9C%20%EC%A7%80%EC%97%AD%20%EB%B6%84%EC%84%9D)
